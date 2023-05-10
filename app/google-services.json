@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589390771030",
+    "project_id": "school-gadgets-54f23",
+    "storage_bucket": "school-gadgets-54f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589390771030:android:7e0e6d0ab9b878e2539cf7",
+        "android_client_info": {
+          "package_name": "com.emindev.schoolgadgets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589390771030-cfimkf0ko96i1heju5654v6tar4n7it3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJ0Y73IW1HYlCoNKbEhFzpCpR1WchyPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589390771030-cfimkf0ko96i1heju5654v6tar4n7it3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

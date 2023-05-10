@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">School Gadgets</string>
+
+    <string name="calculate_min_final_score">Calculate Minimum Final Score</string>
+
+
+    <!--Errors-->
+    <string name="lesson_empty_error">Please Don\'t Leave Blank</string>
+
+    <!--Warnings-->
+    <string name="add_grade_warning">You can not add grade more</string>
+
+    <!--Informations-->
+    <string name="loading">Loading</string>
+
+
+    <!--Grade-->
+    <string name="grade_calculator">Grade Calculator</string>
+    <string name="midtermOne">Midterm One</string>
+    <string name="grade">Grade</string>
+    <string name="percentage">Percentage</string>
+    <string name="final_note">Final</string>
+    <string name="final_passing_grade">Final Passing Grade</string>
+    <string name="lesson_passing_grade">Lesson Passing Grade</string>
+    <string name="lessons">Lessons</string>
+    <string name="lesson">Lesson</string>
+    <string name="calculate">Calculate</string>
+
+    <!--Main-->
+    <string name="welcome">Hi There</string>
+
+    <!--component-->
+    <string name="add">Add</string>
+
+
+</resources>
